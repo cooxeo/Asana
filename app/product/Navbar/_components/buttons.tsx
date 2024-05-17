@@ -36,7 +36,7 @@ const ActionButtons = () => {
                 <Link href={'/'}>
                     Get Started
                 </Link>
-                <Link href={'/'}>
+                <Link href={'/pricing'}>
                     Pricing
                 </Link>
                 <Link href={'/'}>
